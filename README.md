@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Hakeem!
+- 👀 I’m interested in JavaScript , Kotlin , Ruby...
+- 🌱 I’m currently learning Nothing ...
+- 📫 How to reach me Discord: Hakeem#8124 ...
+
+<!---
+hakeem-husam/hakeem-husam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
